@@ -1,5 +1,6 @@
 ___
 # VRM-K
 >This is 1. project
->(https://github.com/rparak/Programming-for-robots-and-manipulators-VRM/blob/main/Project/2_Project_1/Description_2.pdf)
+
+>Project is saved as *.rspag file, and packed into zip archive with content split by defined max volume size. Please unzip befor use.
 ___
